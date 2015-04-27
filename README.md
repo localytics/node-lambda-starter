@@ -8,7 +8,7 @@ This module is intended to be copied and edited as your own Lambda function.
 The utilities within this repo are focused around creating and maintaining
 _a single_ Lambda function.
 
-[Read the accompanying blog post here](http://eng.localytics.com/).
+[Read the accompanying blog post here](http://eng.localytics.com/taming-aws-lambda-for-s3-and-kinesis-at-localytics/).
 
 #### Install
 
